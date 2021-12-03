@@ -1,0 +1,23 @@
+{
+  "name": "umef-ek-v3",
+  "version": "3.0.0",
+  "description": "UMEF-EK V",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "UmutICE",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.1.0",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "nrc.db": "^2.1.0",
+    "wio.db": "^4.0.21"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
