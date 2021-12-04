@@ -1,12 +1,12 @@
 {
-  "name": "umef-ek-v3",
+  "name": "Narcos-Code-Parter-Bot",
   "version": "3.0.0",
-  "description": "UMEF-EK V",
+  "description": "Narcos Code",
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
   },
-  "author": "UmutICE",
+  "author": "MustafaMert",
   "license": "MIT",
   "dependencies": {
     "ascii-table": "^0.0.9",
